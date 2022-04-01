@@ -56,4 +56,22 @@ body {
 	transform: translate(-50%, -55%);
 	text-align: center;
 }
-
+/* .description h2 {
+	color: #57ca1d;
+}
+.span ::before{
+    transform: rotateZ(60deg) translate(-5em, 7.5em);
+    background: linear-gradient(to bottom, rgba(229, 172, 142, 0), rgba(255,255,255,0.5) 50%, rgba(229, 172, 142, 0));
+ content: "";
+ animation: infinite 10s;
+}
+@keyframes sheen{
+    0%{
+        content: "Software Full-Stack Developer " ;
+        transform: rotateZ(60deg) translate(-5em, 7.5em);
+    }
+    50%{
+        content: "I can meet your-: Front-End and Back-End Development NEEDS!";
+        transform: rotateZ(60deg) translate(-5em, 7.5em);
+    }
+} */
